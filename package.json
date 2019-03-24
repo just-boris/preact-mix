@@ -1,0 +1,20 @@
+{
+  "name": "preact-mix",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/react": "^16.8.8",
+    "@types/react-dom": "^16.8.3",
+    "preact": "file:../preact",
+    "react": "^16.8.5",
+    "react-dom": "^16.8.5",
+    "typescript": "^3.4.0-dev.20190323"
+  }
+}
